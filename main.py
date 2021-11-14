@@ -1,7 +1,7 @@
 import turtle
-from Obdlznik import Rectangle
-from Trojuholnik import Triangle
 from Kruh import Circle
+from Trojuholnik import Triangle
+from Obdlznik import Rectangle
 
 vajco = turtle.Turtle()
 vajco.speed(9)
